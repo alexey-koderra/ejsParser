@@ -1,0 +1,32 @@
+{
+  "name": "ejsParser",
+  "version": "0.1.0",
+  "description": "легковесный модуль не содержащий зависимости для преобразования ejs файла в html путем замены javascript-вставок на их реальные значения.",
+  "main": "produceHTML.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexey-koderra/ejsParser.git"
+  },
+  "keywords": [
+    "ejs",
+    "ejs",
+    "to",
+    "email",
+    "ejs",
+    "email",
+    "template",
+    "ejs",
+    "parser"
+  ],
+  "author": "mishevskyi@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/alexey-koderra/ejsParser/issues"
+  }
+}

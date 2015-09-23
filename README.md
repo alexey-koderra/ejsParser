@@ -20,7 +20,7 @@
     ....
     var template = toHTMLengine.produceHTML(Object, uri);// now template is a html in which js snippets replaced with real data
     </pre>
-**ejs:**
+ejs:
 <pre>
 	<p><strong>ID:</strong><%= Object.id //%></p>
 	<p><strong>От:</strong><%= Object.name %></p>
